@@ -1,0 +1,61 @@
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe.config
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.baml
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.g.cs
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\App.g.cs
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning_MarkupCompile.cache
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.g.resources
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.Properties.Resources.resources
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.csproj.GenerateResource.Cache
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.pdb
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe.config
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.exe
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.pdb
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.pdb
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.baml
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.g.cs
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\App.g.cs
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning_MarkupCompile.cache
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.g.resources
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.Properties.Resources.resources
+G:\walkupanduse data\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.csproj.GenerateResource.Cache
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe.config
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.baml
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.g.cs
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\App.g.cs
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning_MarkupCompile.cache
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.g.resources
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.Properties.Resources.resources
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.csproj.GenerateResource.Cache
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\yusra\Documents\Visual Studio 2012\Projects\New folder\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe.config
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.baml
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.g.cs
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\App.g.cs
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning_MarkupCompile.cache
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.g.resources
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.Properties.Resources.resources
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.csproj.GenerateResource.Cache
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\Kinnect\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe.config
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.exe
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\bin\Release\WalkUpAndUseUNCCLearning.pdb
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.csprojResolveAssemblyReference.cache
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.baml
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\MainWindow.g.cs
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\App.g.cs
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning_MarkupCompile.cache
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.g.resources
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.Properties.Resources.resources
+C:\Users\indelab\Documents\Visual Studio 2012\Projects\WalkUpAndUseUNCCLearning\WalkUpAndUseUNCCLearning\obj\Release\WalkUpAndUseUNCCLearning.csproj.GenerateResource.Cache

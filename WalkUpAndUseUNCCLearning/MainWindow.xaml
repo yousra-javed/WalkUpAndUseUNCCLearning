@@ -1,0 +1,8 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Name="UNCCLearning" x:Class="WalkUpAndUseUNCCLearning.MainWindow"
+        Title="UNCCLearning"  Width="1280" Height="900" Left="0" Top="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Loaded="WindowLoaded"  WindowState="Maximized"  SizeChanged="Window_SizeChanged" Background="White" >
+    <Label x:Name="name" Content="Get Involved!"  HorizontalAlignment="Center" Height="125" Background="Gray" VerticalAlignment="Top" Width="950" FontSize="100" FontWeight="Bold" IsEnabled="False"  Foreground="White" Visibility="Visible" HorizontalContentAlignment="Center" Margin="-4,-9,-4,0" d:IsLocked="True"/>
+
+</Window>

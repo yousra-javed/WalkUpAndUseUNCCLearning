@@ -1,0 +1,44 @@
+Security,c1,main,Security,,sec,default,Yellow,White,
+Research,c1,research,Research,,none,default,Yellow,White,
+Events,c1,event,Events,,none,default,Yellow,White,
+Clubs,c1,club,Clubs,,none,default,Yellow,White,
+Courses,c1,course,Courses,,none,default,Yellow,White,
+Professors,c1,faculty,Professors,,none,default,Yellow,White,
+49th Security Division,c1,club,49th Security Division,,sec,default,#6C4C77,White,
+User Centric Policy Management for Social Networks,c1,research,User Centric Policy Management for Social Networks,,sec,default,#C13045,White,10
+Network and Information Security,c1,course,Network and Information Security,,sec,default,#ED9A33,White,15
+Mohamed Shehab,c1,faculty,"Associate Professor in Software and Information Systems. He has an NSF Award, and Google Research Award",shehab.jpg,sec,default,#2d3f51,White,8
+Carolina Cyber Defender Scholarship,c1,event,All participants will be fully integrated into the department's research programs and become affiliated with an on-going research project,videos/Security/CyberScholarship.mov,sec,default,#19978A,White,
+Exploring the Security Capabilities of Physical Layer Network Coding,c1,research,This project seeks to identify capabilities of the PNC technique to detect attacks and design corresponding mechanisms for different network infrastructures and attacker models,,sec,default,#C13045,White,14
+Interactive Static Analysis for Early Detection of Software Vulnerabilities,c1,research,Interactive Static Analysis for Early Detection of Software Vulnerabilities,,sec,default,#C13045,White,16
+Weichao Wang,c1,faculty,Associate Professor in Software and Information Systems,chao.jpg,sec,default,#2d3f51,White,12;17
+Ehab Al-Shaer,c1,faculty,"Professor in Computer Science, Director of the Cyber Defense and Network Assurability Center, and NSF IUCRC Center on Security Configuration Analytics and Automation in UNCC",ehab.png,sec,default,#2d3f51,White,9
+Bill Chu,c1,faculty,Professor in Software and Information Systems,billchu.jpg,sec,default,#2d3f51,White,13;18
+Intro to Security and Privacy,c1,course,ITIS 3200 course provides an introductory overview of key issues and solutions for information security and privacy. Prerequisites: ITCS 1213 ,,sec,default,#ED9A33,White,14
+Secure Programming and Penetration Testing,c1,course,"ITIS 4221 course teaches Techniques for web application penetration testing, secure software development techniques for network based applications. Prerequisites: ITCS 4166 ",videos/Security/SecureProgramming.mov,sec,default,#ED9A33,White,16
+Human Computer Interaction,c2,main,Human Computer Interaction,,hci,default,Yellow,White,
+Interact Club,c2,club,Interact Club,videos/HCI/Interact.mov,hci,default,#6C4C77,White,26
+Heather Lipford,c2,faculty,Associate Professor in Software and Information Systems,heatherlipford.jpg,hci,default,#2d3f51,White,25
+Interaction Design Studio,c2,course,ITIS 4011/6011/8011 course is a studio approach to teaching topics in interaction design.,,hci,default,#ED9A33,White,26
+Little Bill,c2,research,Little Bill,videos/HCI/LittleBill.mov,hci,default,#C13045,White,26
+Tangible Creativity,c2,research,Tangible Creativity,videos/HCI/TangibleCreativity.mov,hci,default,#C13045,White,26
+Human Computer Interaction,c2,course,ITIS 3130 course teaches the basics of Human Computer Interaction,,hci,default,#ED9A33,White,21
+Mary Lou Maher,c2,faculty,Chair of Software and Information Systems,marylou.jpg,hci,default,#2d3f51,White,20;22;23;24
+Software Systems,c3,main,Security Information,,sw,default,Yellow,White,
+Association for Computing Machinery,c3,club,Association for Computing Machinery,,sw,default,#6C4C77,White,
+Research,c3,research,Coming soon,,sw,default,#C13045,White,
+IT Infrastructure,c3,course,IT Infrastructure,/videos/SoftSys/ITIS2110.mov,sw,default,#ED9A33,White,
+ACM Meeting,c3,event,ACM Meeting,,sw,default,#19978A,White,
+Thomas Kitrick,c3,faculty,Thomas Kitrick,,sw,default,#2d3f51,White,
+Health Informatics,c4,main,Health Informatics Information,,hcip,default,Yellow,White,
+Lixia Yao,c4,faculty,Lixia Yao,,hcip,default,#2d3f51,White,
+Yaorong Ge,c4,research,Yaorong Ge,,hcip,default,#C13045,White,
+Masters Program,c4,course,Masters Program,videos/HealthInfo/HealthInformatics.mov,hcip,default,#ED9A33,White,
+Information Session,c4,event,Information Session,videos/HealthInfo/HIInfoSession.mov,hcip,default,#19978A,White,
+Workshop in Next-Generation Sequence Analysis and Metabolomics,c4,event,Workshop in Next-Generation Sequence Analysis and Metabolomics,,hcip,default,#19978A,White,
+Intelligence and Information Systems,c5,main,Intelligence and Information Systems Information,,iis,default,Yellow,White,
+David Wilson,c5,faculty,David Wilson,,iis,default,#2d3f51,White,
+Artificial Intelligence,c5,course,Artificial Intelligence,videos/InfoSys/ArtificialIntelligence.mov,iis,default,#C13045,White,
+Topics in Software & Info Syst: Network Science,c5,course,Topics in Software & Info Syst: Network Science,,iis,default,#ED9A33,White,
+Introduction to High-Performance Computing: Techniques and Applications,c5,event,Introduction to High-Performance Computing: Techniques and Applications,,iis,default,#19978A,White,
+Mirsad Hadzikadic,c5,faculty,Mirsad Hadzikadic,,iis,default,#2d3f51,White,
